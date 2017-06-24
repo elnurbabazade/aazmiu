@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "486276070996",
+    "firebase_url": "https://elnurmessage.firebaseio.com",
+    "project_id": "elnurmessage",
+    "storage_bucket": "elnurmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486276070996:android:75185178e41f6a9c",
+        "android_client_info": {
+          "package_name": "com.example.vip.elnurmessage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486276070996-qcp4br6q7b42qs5q6keqg32r33cti8to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vip.elnurmessage2",
+            "certificate_hash": "616d2d2510f2518ec08b636b27725cb85f5a9a4d"
+          }
+        },
+        {
+          "client_id": "486276070996-2fvjr6nttq2f16j6g9f4pen3bdend944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VtYeobYkQ1Hc1zOU6ujiNA6l27hwIa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486276070996-2fvjr6nttq2f16j6g9f4pen3bdend944.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486276070996:android:01920ffd1fb3496c",
+        "android_client_info": {
+          "package_name": "com.example.vip.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486276070996-2fvjr6nttq2f16j6g9f4pen3bdend944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VtYeobYkQ1Hc1zOU6ujiNA6l27hwIa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486276070996:android:1b17736f3a42b197",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486276070996-2fvjr6nttq2f16j6g9f4pen3bdend944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VtYeobYkQ1Hc1zOU6ujiNA6l27hwIa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486276070996:android:60116fc6cbe5d3e9",
+        "android_client_info": {
+          "package_name": "com.google.admobexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486276070996-2fvjr6nttq2f16j6g9f4pen3bdend944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VtYeobYkQ1Hc1zOU6ujiNA6l27hwIa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486276070996:android:da1d17117717f0f9",
+        "android_client_info": {
+          "package_name": "com.example.vip.ders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486276070996-2fvjr6nttq2f16j6g9f4pen3bdend944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VtYeobYkQ1Hc1zOU6ujiNA6l27hwIa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
